@@ -69,7 +69,7 @@
         "got": "^13.0.0",
         "human-readable": "^0.2.1",
         "javascript-obfuscator": "^4.0.2",
-        "jimp": "^0.16.1",
+        "jimp": "^0.22.12",
         "jsdom": "^22.1.0",
         "openai": "^3.2.1",
         "megajs": "*",
