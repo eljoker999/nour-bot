@@ -71,7 +71,7 @@
         "javascript-obfuscator": "^4.0.2",
         "jimp": "^0.16.1",
         "jsdom": "^22.1.0",
-        "openai": "^3.2.1",
+        "openai": "^4.0.0",
         "megajs": "*",
         "link-preview-js": "^3.0.4",
         "lodash": "^4.17.21",
